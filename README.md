@@ -1,4 +1,4 @@
-…# ResQLink — SMS-Based Disaster Coordination
+# ResQLink — SMS-Based Disaster Coordination
 
 <p align="center">
   <strong>Offline-First Emergency Communication & Disaster Response Coordination System</strong>
